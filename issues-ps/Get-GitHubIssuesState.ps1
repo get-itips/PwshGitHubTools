@@ -2,6 +2,10 @@
 #Todo: 
 #Author: Andres Gorzelany
 #GitHub Handle: get-itips
+#https://developer.github.com/v3/#rate-limiting
+#https://developer.github.com/v3/#authentication
+#https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-restmethod?view=powershell-6
+#https://developer.github.com/v3/issues/#get-a-single-issue
 
 param(
     [Parameter(Mandatory=$true,ValueFromPipelineByPropertyName=$true)]
